@@ -1,0 +1,17 @@
+header {
+
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    padding:1% 2%;
+    background-color: #286853;
+    width: 100%;
+
+    img {
+        height: 100px;
+        cursor: pointer;
+    }
+
+}
